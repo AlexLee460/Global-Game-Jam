@@ -1257,6 +1257,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter:01D4
 [2023.02.04-14.28.23:687][467]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  Constrain Components
 [2023.02.04-14.28.25:087][635]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitComponent
+<<<<<<< Updated upstream
 	ThirdPersonCharacter_C /Game/UEDPIE_0_Rooted_StartArea_Map.Rooted_StartArea_Map:PersistentLevel.ThirdPersonCharacter_167
 	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter:01D4
 [2023.02.04-14.28.25:087][635]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  Constrain Components
@@ -1271,6 +1272,22 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.02.04-14.35.07:193][324]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitComponent
 	ThirdPersonCharacter_C /Game/UEDPIE_0_Rooted_StartArea_Map.Rooted_StartArea_Map:PersistentLevel.ThirdPersonCharacter_167
 	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter:01D4
+=======
+	ThirdPersonCharacter_C /Game/UEDPIE_0_Rooted_StartArea_Map.Rooted_StartArea_Map:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter:01D4
+[2023.02.04-14.28.25:087][635]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  Constrain Components
+[2023.02.04-14.28.25:671][705]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitComponent
+	ThirdPersonCharacter_C /Game/UEDPIE_0_Rooted_StartArea_Map.Rooted_StartArea_Map:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter:01D4
+[2023.02.04-14.28.25:671][705]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  Constrain Components
+[2023.02.04-14.28.27:771][957]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitComponent
+	ThirdPersonCharacter_C /Game/UEDPIE_0_Rooted_StartArea_Map.Rooted_StartArea_Map:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter:01D4
+[2023.02.04-14.28.27:772][957]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  Constrain Components
+[2023.02.04-14.35.07:193][324]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitComponent
+	ThirdPersonCharacter_C /Game/UEDPIE_0_Rooted_StartArea_Map.Rooted_StartArea_Map:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter:01D4
+>>>>>>> Stashed changes
 [2023.02.04-14.35.07:193][324]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  Constrain Components
 [2023.02.04-14.38.54:023][526]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2023.02.04-14.38.54:023][526]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Rooted_StartArea_Map
@@ -1286,3 +1303,209 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.02.04-14.38.56:059][724]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
 [2023.02.04-14.38.56:615][788]LogSlate: Window 'Message Log' being destroyed
 [2023.02.04-14.38.56:620][788]LogSlate: Window 'Message Log' being destroyed
+<<<<<<< Updated upstream
+=======
+[2023.02.04-14.40.05:875][908]LogSlate: Took 0.000380 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.02.04-14.40.09:946][925]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.02.04-14.40.10:010][925]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 64X64)
+[2023.02.04-14.40.10:010][925]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 64X64)
+[2023.02.04-14.40.10:010][925]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 64X64)
+[2023.02.04-14.40.10:010][925]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 64X64)
+[2023.02.04-14.40.10:010][925]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2023.02.04-14.40.10:014][925]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 9F4859990FF619B1342A5BDE6D9417EEB61B7186), compiling. Is special engine material.
+[2023.02.04-14.40.10:109][925]LogShaderCompilers: Display: Submitted 110 shader compile jobs with 'High' priority
+[2023.02.04-14.40.10:197][925]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 110
+[2023.02.04-14.40.10:197][925]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 100
+[2023.02.04-14.40.10:197][925]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 90
+[2023.02.04-14.40.10:197][925]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 80
+[2023.02.04-14.40.10:197][925]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 70
+[2023.02.04-14.40.10:197][925]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 60
+[2023.02.04-14.40.10:197][925]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 50
+[2023.02.04-14.40.10:197][925]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 40
+[2023.02.04-14.40.10:197][925]LogShaderCompilers: Display: Started 80 'Local' shader compile jobs with 'High' priority
+[2023.02.04-14.40.14:036][925]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 30
+[2023.02.04-14.40.14:036][925]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'High' priority
+[2023.02.04-14.40.14:366][925]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 26
+[2023.02.04-14.40.14:366][925]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'High' priority
+[2023.02.04-14.40.14:783][925]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 22
+[2023.02.04-14.40.14:783][925]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'High' priority
+[2023.02.04-14.40.14:991][925]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 19
+[2023.02.04-14.40.14:991][925]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'High' priority
+[2023.02.04-14.40.15:199][925]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 16
+[2023.02.04-14.40.15:199][925]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'High' priority
+[2023.02.04-14.40.15:408][925]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2023.02.04-14.40.15:408][925]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'High' priority
+[2023.02.04-14.40.15:617][925]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 11
+[2023.02.04-14.40.15:617][925]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'High' priority
+[2023.02.04-14.40.15:825][925]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2023.02.04-14.40.15:825][925]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'High' priority
+[2023.02.04-14.40.15:825][925]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2023.02.04-14.40.15:825][925]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'High' priority
+[2023.02.04-14.40.16:034][925]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 6
+[2023.02.04-14.40.16:034][925]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'High' priority
+[2023.02.04-14.40.16:243][925]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2023.02.04-14.40.16:243][925]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'High' priority
+[2023.02.04-14.40.16:243][925]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2023.02.04-14.40.16:243][925]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'High' priority
+[2023.02.04-14.40.16:243][925]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2023.02.04-14.40.16:243][925]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'High' priority
+[2023.02.04-14.40.16:243][925]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2023.02.04-14.40.16:243][925]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'High' priority
+[2023.02.04-14.40.16:243][925]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2023.02.04-14.40.16:243][925]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'High' priority
+[2023.02.04-14.40.16:510][925]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.04-14.40.16:511][925]LogShaderCompilers: Display: Total job queries 110, among them cache hits 0 (0.00%)
+[2023.02.04-14.40.16:511][925]LogShaderCompilers: Display: Tracking 110 distinct input hashes that result in 61 distinct outputs (55.45%)
+[2023.02.04-14.40.16:511][925]LogShaderCompilers: Display: RAM used: 0.30 MB (0.00 GB) of 3276.80 MB (3.20 GB) budget. Usage: 0.01%
+[2023.02.04-14.40.16:511][925]LogShaderCompilers: Display: ================================================
+[2023.02.04-14.40.16:516][925]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Rooted_Alex_Test.Rooted_Alex_Test
+[2023.02.04-14.40.16:516][925]Cmd: MAP LOAD FILE="../../../../../../Users/c2178288/Documents/GitHub/Global-Game-Jam/Rooted/Content/Rooted_Alex_Test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.02.04-14.40.16:516][925]LightingResults: New page: Lighting Build
+[2023.02.04-14.40.16:516][925]LoadErrors: New page: Loading map: Rooted_Alex_Test.umap
+[2023.02.04-14.40.16:518][925]LogWorld: UWorld::CleanupWorld for Rooted_StartArea_Map, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-14.40.16:518][925]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-14.40.16:518][925]MapCheck: New page: Map Check
+[2023.02.04-14.40.16:518][925]LightingResults: New page: Lighting Build
+[2023.02.04-14.40.16:521][925]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.04-14.40.16:525][925]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.02.04-14.40.16:525][925]LogAudio: Display: Audio Device (ID: 1) registered with world 'Rooted_Alex_Test'.
+[2023.02.04-14.40.16:618][925]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.02.04-14.40.16:618][925]LogAIModule: Creating AISystem for world Rooted_Alex_Test
+[2023.02.04-14.40.16:624][925]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.02.04-14.40.16:627][925]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.02.04-14.40.16:627][925]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.091ms to complete.
+[2023.02.04-14.40.16:627][925]LogFileHelpers: Loading map 'Rooted_Alex_Test' took 0.111
+[2023.02.04-14.40.26:249][ 29]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.04-14.40.26:254][ 29]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.04-14.40.26:254][ 29]PIE: New page: PIE session: Rooted_Alex_Test (4 Feb 2023, 14:40:26)
+[2023.02.04-14.40.26:282][ 29]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Rooted_Alex_Test
+[2023.02.04-14.40.26:300][ 29]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017770s)
+[2023.02.04-14.40.26:301][ 29]LogAIModule: Creating AISystem for world Rooted_Alex_Test
+[2023.02.04-14.40.26:301][ 29]LogPlayLevel: PIE: World Init took: (0.001263s)
+[2023.02.04-14.40.26:301][ 29]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Rooted_Alex_Test.Rooted_Alex_Test to /Game/UEDPIE_0_Rooted_Alex_Test.Rooted_Alex_Test (0.019178s)
+[2023.02.04-14.40.26:307][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.02.04-14.40.26:307][ 29]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.02.04-14.40.26:308][ 29]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.04-14.40.26:308][ 29]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.04-14.40.26:308][ 29]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.04-14.40.26:308][ 29]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.04-14.40.26:308][ 29]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.04-14.40.26:308][ 29]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.04-14.40.26:308][ 29]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.04-14.40.26:308][ 29]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.04-14.40.26:308][ 29]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.04-14.40.26:308][ 29]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.04-14.40.26:308][ 29]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.04-14.40.26:308][ 29]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.04-14.40.26:311][ 29]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.04-14.40.26:311][ 29]LogAudioMixer: Display: 1: FrontRight
+[2023.02.04-14.40.26:329][ 29]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.02.04-14.40.26:329][ 29]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.04-14.40.26:330][ 29]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.04-14.40.26:330][ 29]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.04-14.40.26:330][ 29]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.04-14.40.26:330][ 29]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.04-14.40.26:330][ 29]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.04-14.40.26:331][ 29]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.04-14.40.26:331][ 29]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.04-14.40.26:331][ 29]LogInit: FAudioDevice initialized.
+[2023.02.04-14.40.26:331][ 29]LogAudio: Display: Audio Device (ID: 6) registered with world 'Rooted_Alex_Test'.
+[2023.02.04-14.40.26:340][ 29]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.02.04-14.40.26:341][ 29]LogWorld: Bringing World /Game/UEDPIE_0_Rooted_Alex_Test.Rooted_Alex_Test up for play (max tick rate 0) at 2023.02.04-14.40.26
+[2023.02.04-14.40.26:342][ 29]LogWorld: Bringing up level for play took: 0.001404
+[2023.02.04-14.40.26:342][ 29]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2023.02.04-14.40.26:343][ 29]PIE: Server logged in
+[2023.02.04-14.40.26:344][ 29]PIE: Play in editor total start time 0.091 seconds.
+[2023.02.04-14.40.27:019][107]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitComponent
+	ThirdPersonCharacter_C /Game/UEDPIE_0_Rooted_Alex_Test.Rooted_Alex_Test:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter:01D4
+[2023.02.04-14.40.27:019][107]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  Constrain Components
+[2023.02.04-14.40.29:042][350]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Object Teathered
+[2023.02.04-14.40.34:570][ 13]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Teather Broken
+[2023.02.04-14.40.48:445][678]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Object Teathered
+[2023.02.04-14.40.50:544][930]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Teather Broken
+[2023.02.04-14.41.09:697][228]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Object Teathered
+[2023.02.04-14.41.10:847][366]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Teather Broken
+[2023.02.04-14.41.25:693][147]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Object Teathered
+[2023.02.04-14.41.29:090][555]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Teather Broken
+[2023.02.04-14.41.33:757][115]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Object Teathered
+[2023.02.04-14.41.38:632][700]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Teather Broken
+[2023.02.04-14.42.12:560][771]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Object Teathered
+[2023.02.04-14.42.21:544][849]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Teather Broken
+[2023.02.04-14.43.21:339][ 24]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitComponent
+	ThirdPersonCharacter_C /Game/UEDPIE_0_Rooted_Alex_Test.Rooted_Alex_Test:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter:01D4
+[2023.02.04-14.43.21:339][ 24]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  Constrain Components
+[2023.02.04-14.43.22:281][137]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitComponent
+	ThirdPersonCharacter_C /Game/UEDPIE_0_Rooted_Alex_Test.Rooted_Alex_Test:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter:01D4
+[2023.02.04-14.43.22:281][137]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  Constrain Components
+[2023.02.04-14.45.29:566][405]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.04-14.45.29:566][405]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Rooted_Alex_Test
+[2023.02.04-14.45.29:566][405]LogWorld: UWorld::CleanupWorld for Rooted_Alex_Test, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-14.45.29:567][405]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-14.45.29:577][405]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.04-14.45.29:578][405]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-14.45.29:582][405]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.04-14.45.29:582][405]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.04-14.45.29:583][405]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.04-14.45.29:586][405]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.04-14.45.29:588][405]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.02.04-14.45.29:670][406]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2023.02.04-14.45.39:378][488]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2023.02.04-14.45.39:519][488]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 126 classes and 0 folders.
+[2023.02.04-14.45.40:003][488]LogSlate: Took 0.000314 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.02.04-14.58.01:794][404]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.04-14.58.01:799][404]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.04-14.58.01:799][404]PIE: New page: PIE session: Rooted_Alex_Test (4 Feb 2023, 14:58:01)
+[2023.02.04-14.58.01:834][404]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Rooted_Alex_Test
+[2023.02.04-14.58.01:856][404]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021300s)
+[2023.02.04-14.58.01:857][404]LogAIModule: Creating AISystem for world Rooted_Alex_Test
+[2023.02.04-14.58.01:857][404]LogPlayLevel: PIE: World Init took: (0.001497s)
+[2023.02.04-14.58.01:857][404]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Rooted_Alex_Test.Rooted_Alex_Test to /Game/UEDPIE_0_Rooted_Alex_Test.Rooted_Alex_Test (0.023007s)
+[2023.02.04-14.58.01:875][404]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2023.02.04-14.58.01:876][404]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.02.04-14.58.01:876][404]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.04-14.58.01:876][404]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.04-14.58.01:876][404]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.04-14.58.01:876][404]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.04-14.58.01:876][404]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.04-14.58.01:876][404]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.04-14.58.01:876][404]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.04-14.58.01:876][404]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.04-14.58.01:876][404]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.04-14.58.01:876][404]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.04-14.58.01:876][404]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.04-14.58.01:876][404]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.04-14.58.01:879][404]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.04-14.58.01:879][404]LogAudioMixer: Display: 1: FrontRight
+[2023.02.04-14.58.01:890][404]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.02.04-14.58.01:890][404]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.04-14.58.01:890][404]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.04-14.58.01:890][404]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.04-14.58.01:891][404]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.04-14.58.01:891][404]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.04-14.58.01:891][404]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.04-14.58.01:892][404]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.04-14.58.01:892][404]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.04-14.58.01:892][404]LogInit: FAudioDevice initialized.
+[2023.02.04-14.58.01:892][404]LogAudio: Display: Audio Device (ID: 7) registered with world 'Rooted_Alex_Test'.
+[2023.02.04-14.58.01:899][404]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.02.04-14.58.01:901][404]LogWorld: Bringing World /Game/UEDPIE_0_Rooted_Alex_Test.Rooted_Alex_Test up for play (max tick rate 0) at 2023.02.04-14.58.01
+[2023.02.04-14.58.01:901][404]LogWorld: Bringing up level for play took: 0.001491
+[2023.02.04-14.58.01:901][404]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2023.02.04-14.58.01:902][404]PIE: Server logged in
+[2023.02.04-14.58.01:903][404]PIE: Play in editor total start time 0.105 seconds.
+[2023.02.04-14.58.03:195][552]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.04-14.58.03:195][552]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Rooted_Alex_Test
+[2023.02.04-14.58.03:196][552]LogWorld: UWorld::CleanupWorld for Rooted_Alex_Test, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-14.58.03:196][552]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-14.58.03:200][552]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.04-14.58.03:202][552]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-14.58.03:212][552]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.04-14.58.03:212][552]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.04-14.58.03:213][552]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.04-14.58.03:215][552]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.04-14.58.03:217][552]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.02.04-14.58.03:262][555]LogPlayLevel: Display: Destroying online subsystem :Context_10
+>>>>>>> Stashed changes
